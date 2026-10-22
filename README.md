@@ -205,10 +205,8 @@ Measured with `tools/auto_sender.py` (20 CRITICAL alerts, 0.5 s apart, 5 subscri
 | Initial testing and demo (2) | docs/test_cases.md, results/, docs/demo_script.md |
 
 ## 9. Team
-
-| Member | 
-|---|---|
-| Shubha M|
+ 
+| Shubha M |
 | Shubham Jalori |
 | Suman K Das |
 
