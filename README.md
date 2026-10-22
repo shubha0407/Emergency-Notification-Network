@@ -206,8 +206,8 @@ Measured with `tools/auto_sender.py` (20 CRITICAL alerts, 0.5 s apart, 5 subscri
 
 ## 9. Team
  
-| Shubha M |
-| Shubham Jalori |
+| Shubha M 
+| Shubham Jalori 
 | Suman K Das |
 
 ## 10. Plan for D2
