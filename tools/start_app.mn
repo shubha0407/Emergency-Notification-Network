@@ -1,0 +1,12 @@
+sh pkill -f "app/[s]erver.py"
+sh pkill -f "app/[s]ubscriber.py"
+sh rm -f logs/*.csv logs/*.out
+h1 python3 -u app/server.py > logs/server.out 2>&1 &
+sh sleep 1
+h3 python3 -u app/subscriber.py 10.0.0.1 5000 logs/h3a.csv > logs/h3a.out 2>&1 &
+h4 python3 -u app/subscriber.py 10.0.0.1 5000 logs/h4a.csv > logs/h4a.out 2>&1 &
+h5 python3 -u app/subscriber.py 10.0.0.1 5000 logs/h5a.csv > logs/h5a.out 2>&1 &
+h3 python3 -u app/subscriber.py 10.0.0.1 5001 logs/h3b.csv > logs/h3b.out 2>&1 &
+h4 python3 -u app/subscriber.py 10.0.0.1 5002 logs/h4b.csv > logs/h4b.out 2>&1 &
+sh sleep 2
+sh cat logs/server.out
