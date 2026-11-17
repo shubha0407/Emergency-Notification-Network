@@ -1,23 +1,23 @@
 loading app controller/baseline_plain.py
 loading app ryu.controller.ofp_handler
 instantiating app controller/baseline_plain.py of BaselinePlain
-14:59:05 DeadlineCast controller starting in mode 'plain'
+18:12:03 DeadlineCast controller starting in mode 'plain'
 instantiating app ryu.controller.ofp_handler of OFPHandler
-14:59:08 SWITCH_READY: s1 mode=plain security_rules=0 routes=7
-14:59:08 SWITCH_READY: s2 mode=plain security_rules=0 routes=7
-14:59:09 SWITCH_READY: s3 mode=plain security_rules=0 routes=7
-14:59:09 SWITCH_READY: s4 mode=plain security_rules=0 routes=7
-14:59:09 ALL_SWITCHES_CONNECTED: 4 switches
-14:59:09 control channel on 10.200.0.254:6000
-14:59:13 LOAD s1->s2 5.5, s2->s4 5.5, s1->s3 0.0, s3->s4 0.0 Mbps
-14:59:18 LOAD s1->s2 5.7, s2->s4 5.6, s1->s3 0.0, s3->s4 0.0 Mbps
-14:59:23 LOAD s1->s2 6.5, s2->s4 6.6, s1->s3 0.0, s3->s4 0.0 Mbps
-14:59:29 LOAD s1->s2 4.3, s2->s4 4.3, s1->s3 0.0, s3->s4 0.0 Mbps
-14:59:29 LINK_DOWN: s1-s2
-14:59:29 NO_REACTION: plain mode keeps its static routes
-14:59:29 LINK_DOWN: s2-s4
-14:59:29 NO_REACTION: plain mode keeps its static routes
-14:59:29 LINK_DOWN: s3-s4
-14:59:29 NO_REACTION: plain mode keeps its static routes
-14:59:29 LINK_DOWN: s1-s3
-14:59:29 NO_REACTION: plain mode keeps its static routes
+18:12:06 SWITCH_READY: s1 mode=plain security_rules=0 routes=7
+18:12:07 SWITCH_READY: s2 mode=plain security_rules=0 routes=7
+18:12:07 SWITCH_READY: s3 mode=plain security_rules=0 routes=7
+18:12:07 SWITCH_READY: s4 mode=plain security_rules=0 routes=7
+18:12:07 ALL_SWITCHES_CONNECTED: 4 switches
+18:12:08 control channel on 10.200.0.254:6000
+18:12:11 LOAD s1->s2 2.3, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps
+18:12:16 LOAD s1->s2 9.7, s2->s4 9.7, s1->s3 0.0, s3->s4 0.0 Mbps
+18:12:21 LOAD s1->s2 8.4, s2->s4 8.4, s1->s3 0.0, s3->s4 0.0 Mbps
+18:12:26 LOAD s1->s2 4.3, s2->s4 4.3, s1->s3 0.0, s3->s4 0.0 Mbps
+18:12:28 LINK_DOWN: s1-s2
+18:12:28 NO_REACTION: plain mode keeps its static routes
+18:12:28 LINK_DOWN: s1-s3
+18:12:28 NO_REACTION: plain mode keeps its static routes
+18:12:28 LINK_DOWN: s3-s4
+18:12:28 NO_REACTION: plain mode keeps its static routes
+18:12:28 LINK_DOWN: s2-s4
+18:12:28 NO_REACTION: plain mode keeps its static routes

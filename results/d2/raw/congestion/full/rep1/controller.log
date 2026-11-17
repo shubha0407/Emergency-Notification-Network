@@ -1,62 +1,61 @@
 loading app controller/deadlinecast_ryu.py
 loading app ryu.controller.ofp_handler
 instantiating app controller/deadlinecast_ryu.py of DeadlineCast
-14:58:38 DeadlineCast controller starting in mode 'full'
+18:11:33 DeadlineCast controller starting in mode 'full'
 instantiating app ryu.controller.ofp_handler of OFPHandler
-14:58:41 SWITCH_READY: s1 mode=full security_rules=11 routes=7
-14:58:41 SWITCH_READY: s2 mode=full security_rules=0 routes=7
-14:58:41 SWITCH_READY: s3 mode=full security_rules=0 routes=7
-14:58:42 SWITCH_READY: s4 mode=full security_rules=23 routes=7
-14:58:42 ALL_SWITCHES_CONNECTED: 4 switches
-14:58:42 control channel on 10.200.0.254:6000
-14:58:46 LOAD s1->s2 7.0, s2->s4 4.2, s1->s3 0.0, s3->s4 0.0 Mbps
-14:58:47 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.7, s2->s4 9.8, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:48 DISARM: server 10.0.0.1: alert rules removed
-14:58:48 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.7, s2->s4 7.1, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:48 DISARM: server 10.0.0.1: alert rules removed
-14:58:48 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 7.1, s2->s4 7.1, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:49 DISARM: server 10.0.0.1: alert rules removed
-14:58:49 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 7.1, s2->s4 9.1, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:49 DISARM: server 10.0.0.1: alert rules removed
-14:58:50 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.1, s2->s4 9.1, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:50 DISARM: server 10.0.0.1: alert rules removed
-14:58:50 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.1, s2->s4 9.8, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:50 DISARM: server 10.0.0.1: alert rules removed
-14:58:50 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.7, s2->s4 9.8, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:51 DISARM: server 10.0.0.1: alert rules removed
-14:58:51 LOAD s1->s2 9.7, s2->s4 9.8, s1->s3 0.0, s3->s4 0.0 Mbps
-14:58:51 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 6.6, s2->s4 6.5, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:51 DISARM: server 10.0.0.1: alert rules removed
-14:58:51 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 6.6, s2->s4 6.5, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:52 DISARM: server 10.0.0.1: alert rules removed
-14:58:52 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 6.6, s2->s4 6.5, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:52 DISARM: server 10.0.0.1: alert rules removed
-14:58:52 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.2, s2->s4 9.2, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:53 DISARM: server 10.0.0.1: alert rules removed
-14:58:53 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.2, s2->s4 9.2, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:53 DISARM: server 10.0.0.1: alert rules removed
-14:58:53 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 8.5, s2->s4 8.5, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:54 DISARM: server 10.0.0.1: alert rules removed
-14:58:54 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 8.5, s2->s4 8.5, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:54 DISARM: server 10.0.0.1: alert rules removed
-14:58:54 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.7, s2->s4 9.6, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:55 DISARM: server 10.0.0.1: alert rules removed
-14:58:55 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.7, s2->s4 9.6, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:55 DISARM: server 10.0.0.1: alert rules removed
-14:58:55 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.7, s2->s4 9.7, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:56 DISARM: server 10.0.0.1: alert rules removed
-14:58:56 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.7, s2->s4 9.7, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:56 DISARM: server 10.0.0.1: alert rules removed
-14:58:56 LOAD s1->s2 9.5, s2->s4 9.7, s1->s3 0.0, s3->s4 0.0 Mbps
-14:58:56 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.5, s2->s4 9.4, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:57 DISARM: server 10.0.0.1: alert rules removed
-14:58:57 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 9.5, s2->s4 9.4, s1->s3 0.0, s3->s4 0.0 Mbps]
-14:58:57 DISARM: server 10.0.0.1: alert rules removed
-14:59:01 LOAD s1->s2 9.7, s2->s4 9.8, s1->s3 0.0, s3->s4 0.0 Mbps
-14:59:02 LINK_DOWN: s2-s4
-14:59:02 LINK_DOWN: s1-s2
-14:59:02 LINK_DOWN: s1-s3
-14:59:02 LINK_DOWN: s3-s4
-14:59:02 REROUTED: 18 routes reinstalled in 416.2 ms, s1 to s4 now via none
-14:59:02 REROUTED: 11 routes reinstalled in 402.1 ms, s1 to s4 now via none
-14:59:02 REROUTED: 11 routes reinstalled in 352.0 ms, s1 to s4 now via none
+18:11:37 SWITCH_READY: s1 mode=full security_rules=11 routes=7
+18:11:37 SWITCH_READY: s2 mode=full security_rules=0 routes=7
+18:11:38 SWITCH_READY: s3 mode=full security_rules=0 routes=7
+18:11:38 SWITCH_READY: s4 mode=full security_rules=23 routes=7
+18:11:38 ALL_SWITCHES_CONNECTED: 4 switches
+18:11:39 control channel on 10.200.0.254:6000
+18:11:43 LOAD s1->s2 5.1, s2->s4 5.1, s1->s3 0.0, s3->s4 0.0 Mbps
+18:11:44 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 3.2, s2->s4 3.2, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:44 DISARM: server 10.0.0.1: alert rules removed
+18:11:44 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 3.2, s2->s4 3.2, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:44 DISARM: server 10.0.0.1: alert rules removed
+18:11:45 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 5.6, s2->s4 5.7, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:45 DISARM: server 10.0.0.1: alert rules removed
+18:11:45 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 5.6, s2->s4 5.7, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:45 DISARM: server 10.0.0.1: alert rules removed
+18:11:46 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 5.6, s2->s4 5.7, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:46 DISARM: server 10.0.0.1: alert rules removed
+18:11:46 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 7.7, s2->s4 7.7, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:46 DISARM: server 10.0.0.1: alert rules removed
+18:11:47 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 3.9, s2->s4 3.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:47 DISARM: server 10.0.0.1: alert rules removed
+18:11:47 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 3.9, s2->s4 3.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:47 DISARM: server 10.0.0.1: alert rules removed
+18:11:48 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 3.9, s2->s4 3.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:48 LOAD s1->s2 7.7, s2->s4 7.8, s1->s3 0.0, s3->s4 0.0 Mbps
+18:11:48 DISARM: server 10.0.0.1: alert rules removed
+18:11:48 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 7.7, s2->s4 7.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:48 DISARM: server 10.0.0.1: alert rules removed
+18:11:49 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 7.7, s2->s4 7.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:49 DISARM: server 10.0.0.1: alert rules removed
+18:11:49 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 7.8, s2->s4 7.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:49 DISARM: server 10.0.0.1: alert rules removed
+18:11:50 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 7.8, s2->s4 7.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:50 DISARM: server 10.0.0.1: alert rules removed
+18:11:50 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 8.0, s2->s4 8.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:50 DISARM: server 10.0.0.1: alert rules removed
+18:11:51 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 8.0, s2->s4 8.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:51 DISARM: server 10.0.0.1: alert rules removed
+18:11:51 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 5.9, s2->s4 6.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:51 DISARM: server 10.0.0.1: alert rules removed
+18:11:52 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 5.9, s2->s4 6.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:52 DISARM: server 10.0.0.1: alert rules removed
+18:11:52 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 5.8, s2->s4 5.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:52 DISARM: server 10.0.0.1: alert rules removed
+18:11:53 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 5.8, s2->s4 5.8, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:53 LOAD s1->s2 6.0, s2->s4 5.9, s1->s3 0.0, s3->s4 0.0 Mbps
+18:11:53 DISARM: server 10.0.0.1: alert rules removed
+18:11:53 ARM: server 10.0.0.1 window 30s alert path s1-s3-s4 [s1->s2 6.0, s2->s4 5.9, s1->s3 0.0, s3->s4 0.0 Mbps]
+18:11:53 DISARM: server 10.0.0.1: alert rules removed
+18:11:58 LINK_DOWN: s2-s4
+18:11:58 LINK_DOWN: s1-s3
+18:11:58 LINK_DOWN: s1-s2
+18:11:59 LINK_DOWN: s3-s4
+18:11:59 REROUTED: 14 routes reinstalled in 400.3 ms, s1 to s4 now via none
+18:11:59 REROUTED: 11 routes reinstalled in 376.1 ms, s1 to s4 now via none
+18:11:59 REROUTED: 11 routes reinstalled in 376.1 ms, s1 to s4 now via none

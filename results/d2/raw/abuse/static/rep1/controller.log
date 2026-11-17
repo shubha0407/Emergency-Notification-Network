@@ -1,21 +1,23 @@
 loading app controller/baseline_static.py
 loading app ryu.controller.ofp_handler
 instantiating app controller/baseline_static.py of BaselineStatic
-14:59:33 DeadlineCast controller starting in mode 'static'
+18:12:32 DeadlineCast controller starting in mode 'static'
 instantiating app ryu.controller.ofp_handler of OFPHandler
-14:59:37 SWITCH_READY: s1 mode=static security_rules=0 routes=7
-14:59:37 SWITCH_READY: s2 mode=static security_rules=0 routes=7
-14:59:37 SWITCH_READY: s3 mode=static security_rules=0 routes=7
-14:59:37 SWITCH_READY: s4 mode=static security_rules=0 routes=7
-14:59:37 ALL_SWITCHES_CONNECTED: 4 switches
-14:59:38 control channel on 10.200.0.254:6000
-14:59:42 LOAD s1->s2 2.8, s2->s4 2.8, s1->s3 0.0, s3->s4 0.0 Mbps
-15:00:10 LOAD s1->s2 5.2, s2->s4 5.2, s1->s3 0.0, s3->s4 0.0 Mbps
-15:00:14 LINK_DOWN: s1-s2
-15:00:14 NO_REACTION: static mode keeps its static routes
-15:00:14 LINK_DOWN: s2-s4
-15:00:14 NO_REACTION: static mode keeps its static routes
-15:00:14 LINK_DOWN: s3-s4
-15:00:14 NO_REACTION: static mode keeps its static routes
-15:00:14 LINK_DOWN: s1-s3
-15:00:14 NO_REACTION: static mode keeps its static routes
+18:12:35 SWITCH_READY: s1 mode=static security_rules=0 routes=7
+18:12:36 SWITCH_READY: s2 mode=static security_rules=0 routes=7
+18:12:36 SWITCH_READY: s3 mode=static security_rules=0 routes=7
+18:12:36 SWITCH_READY: s4 mode=static security_rules=0 routes=7
+18:12:36 ALL_SWITCHES_CONNECTED: 4 switches
+18:12:36 control channel on 10.200.0.254:6000
+18:12:40 LOAD s1->s2 8.9, s2->s4 3.5, s1->s3 0.0, s3->s4 0.0 Mbps
+18:12:45 LOAD s1->s2 9.3, s2->s4 9.3, s1->s3 0.0, s3->s4 0.0 Mbps
+18:12:50 LOAD s1->s2 5.7, s2->s4 5.7, s1->s3 0.0, s3->s4 0.0 Mbps
+18:12:55 LOAD s1->s2 9.9, s2->s4 9.9, s1->s3 0.0, s3->s4 0.0 Mbps
+18:12:56 LINK_DOWN: s2-s4
+18:12:56 NO_REACTION: static mode keeps its static routes
+18:12:56 LINK_DOWN: s1-s2
+18:12:56 NO_REACTION: static mode keeps its static routes
+18:12:57 LINK_DOWN: s3-s4
+18:12:57 NO_REACTION: static mode keeps its static routes
+18:12:57 LINK_DOWN: s1-s3
+18:12:57 NO_REACTION: static mode keeps its static routes

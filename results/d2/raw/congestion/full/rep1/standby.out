@@ -1,8 +1,8 @@
 STANDBY server listening on UDP 0.0.0.0:7000 (heartbeat every 3s, controller link ON, HMAC ON)
 Registered ('10.0.0.4', 5000) | total: 1
 Registered ('10.0.0.3', 5000) | total: 2
-Registered ('10.0.0.5', 5000) | total: 3
-Registered ('10.0.0.3', 5001) | total: 4
+Registered ('10.0.0.3', 5001) | total: 3
+Registered ('10.0.0.5', 5000) | total: 4
 Registered ('10.0.0.4', 5002) | total: 5
 
 Server shutting down

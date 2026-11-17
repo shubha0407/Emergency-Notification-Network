@@ -1,25 +1,25 @@
 iperf3: interrupt - the client has terminated by signal Interrupt(2)
 Connecting to host 10.0.0.3, port 5201
-[  7] local 10.0.0.6 port 54867 connected to 10.0.0.3 port 5201
+[  7] local 10.0.0.6 port 46849 connected to 10.0.0.3 port 5201
 [ ID] Interval           Transfer     Bitrate         Total Datagrams
-[  7]   0.00-1.00   sec   564 KBytes  4.62 Mbits/sec  482  
-[  7]   1.00-2.00   sec   673 KBytes  5.50 Mbits/sec  574  
-[  7]   2.00-3.00   sec  1.05 MBytes  8.79 Mbits/sec  915  
-[  7]   3.00-4.04   sec   907 KBytes  7.13 Mbits/sec  774  
-[  7]   4.04-5.00   sec   741 KBytes  6.33 Mbits/sec  632  
-[  7]   5.00-6.00   sec   670 KBytes  5.49 Mbits/sec  572  
-[  7]   6.00-7.00   sec   615 KBytes  5.03 Mbits/sec  525  
-[  7]   7.00-8.00   sec   735 KBytes  6.03 Mbits/sec  627  
-[  7]   8.00-9.00   sec  1.10 MBytes  9.19 Mbits/sec  958  
-[  7]   9.00-10.04  sec   673 KBytes  5.29 Mbits/sec  574  
-[  7]  10.04-11.00  sec   891 KBytes  7.62 Mbits/sec  760  
-[  7]  11.00-12.00  sec   789 KBytes  6.46 Mbits/sec  673  
-[  7]  12.00-13.00  sec   792 KBytes  6.49 Mbits/sec  676  
-[  7]  13.00-14.00  sec   785 KBytes  6.43 Mbits/sec  670  
-[  7]  14.00-15.01  sec   557 KBytes  4.52 Mbits/sec  475  
-[  7]  15.01-16.01  sec   498 KBytes  4.10 Mbits/sec  425  
-[  7]  16.01-16.13  sec  56.2 KBytes  3.55 Mbits/sec  48  
+[  7]   0.00-1.00   sec   758 KBytes  6.20 Mbits/sec  648  
+[  7]   1.00-2.00   sec   789 KBytes  6.46 Mbits/sec  673  
+[  7]   2.00-3.00   sec  1.09 MBytes  9.16 Mbits/sec  953  
+[  7]   3.00-4.00   sec  1.14 MBytes  9.55 Mbits/sec  996  
+[  7]   4.00-5.00   sec  1.09 MBytes  9.12 Mbits/sec  951  
+[  7]   5.00-6.00   sec  1.09 MBytes  9.17 Mbits/sec  954  
+[  7]   6.00-7.00   sec  1.04 MBytes  8.71 Mbits/sec  907  
+[  7]   7.00-8.00   sec   858 KBytes  7.03 Mbits/sec  732  
+[  7]   8.00-9.00   sec   898 KBytes  7.34 Mbits/sec  766  
+[  7]   9.00-10.01  sec  1.03 MBytes  8.59 Mbits/sec  898  
+[  7]  10.01-11.00  sec   641 KBytes  5.26 Mbits/sec  547  
+[  7]  11.00-12.05  sec   734 KBytes  5.72 Mbits/sec  626  
+[  7]  12.05-13.07  sec   512 KBytes  4.11 Mbits/sec  437  
+[  7]  13.07-14.00  sec   742 KBytes  6.53 Mbits/sec  633  
+[  7]  14.00-15.01  sec   562 KBytes  4.58 Mbits/sec  480  
+[  7]  15.01-16.07  sec   498 KBytes  3.86 Mbits/sec  425  
+[  7]  16.07-16.39  sec   169 KBytes  4.21 Mbits/sec  144  
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
-[  7]   0.00-16.13  sec  11.9 MBytes  6.16 Mbits/sec  0.000 ms  0/10360 (0%)  sender
-[  7]   0.00-16.13  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
+[  7]   0.00-16.39  sec  13.5 MBytes  6.89 Mbits/sec  0.000 ms  0/11770 (0%)  sender
+[  7]   0.00-16.39  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver

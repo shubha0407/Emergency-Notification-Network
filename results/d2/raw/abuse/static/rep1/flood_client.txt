@@ -1,13 +1,25 @@
+iperf3: interrupt - the client has terminated by signal Interrupt(2)
 Connecting to host 10.0.0.3, port 5201
-[  7] local 10.0.0.6 port 56376 connected to 10.0.0.3 port 5201
+[  7] local 10.0.0.6 port 55240 connected to 10.0.0.3 port 5201
 [ ID] Interval           Transfer     Bitrate         Total Datagrams
-[  7]   0.00-1.00   sec   818 KBytes  6.69 Mbits/sec  699  
-[  7]   1.00-2.00   sec   557 KBytes  4.56 Mbits/sec  475  
-[  7]   2.00-3.00   sec   734 KBytes  6.01 Mbits/sec  626  
-[  7]   3.00-29.57  sec   398 KBytes   123 Kbits/sec  340  
+[  7]   0.00-1.00   sec  1.15 MBytes  9.67 Mbits/sec  1009  
+[  7]   1.00-2.00   sec   846 KBytes  6.91 Mbits/sec  722  
+[  7]   2.00-3.00   sec   859 KBytes  7.04 Mbits/sec  733  
+[  7]   3.00-4.00   sec   850 KBytes  6.98 Mbits/sec  725  
+[  7]   4.00-5.00   sec  1.09 MBytes  9.14 Mbits/sec  953  
+[  7]   5.00-6.00   sec  1.09 MBytes  9.19 Mbits/sec  956  
+[  7]   6.00-7.00   sec   947 KBytes  7.75 Mbits/sec  808  
+[  7]   7.00-8.16   sec   690 KBytes  4.88 Mbits/sec  589  
+[  7]   8.16-9.00   sec   679 KBytes  6.63 Mbits/sec  579  
+[  7]   9.00-10.06  sec   886 KBytes  6.87 Mbits/sec  756  
+[  7]  10.06-11.25  sec   666 KBytes  4.58 Mbits/sec  568  
+[  7]  11.25-12.00  sec   882 KBytes  9.60 Mbits/sec  753  
+[  7]  12.00-13.11  sec  1022 KBytes  7.55 Mbits/sec  872  
+[  7]  13.11-14.00  sec   785 KBytes  7.21 Mbits/sec  670  
+[  7]  14.00-15.00  sec  1.14 MBytes  9.55 Mbits/sec  995  
+[  7]  15.00-16.00  sec  1.03 MBytes  8.65 Mbits/sec  900  
+[  7]  16.00-16.28  sec   332 KBytes  9.87 Mbits/sec  283  
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
-[  7]   0.00-29.64  sec  2.45 MBytes   693 Kbits/sec  0.000 ms  0/2140 (0%)  sender
-[  7]   0.00-29.66  sec  2.40 MBytes   677 Kbits/sec  353.085 ms  0/2093 (0%)  receiver
-
-iperf Done.
+[  7]   0.00-16.28  sec  14.7 MBytes  7.59 Mbits/sec  0.000 ms  0/12871 (0%)  sender
+[  7]   0.00-16.28  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
