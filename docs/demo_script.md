@@ -1,5 +1,7 @@
 # D1 demo script (about 10 minutes)
 
+> **D1 version.** These instructions describe Deliverable 1. Since D2, the D1 files are `topology/topo_d1.py` and `controller/deadlinecast_d1.py`: use those names wherever this page says `topo.py` or `deadlinecast_ryu.py`. The current project is described in the main README.
+
 Before the demo: start the VM, open 3 terminals (A, B, C), `cd ~/emergency-sdn` in each. Terminal A: `sudo mn -c`.
 
 | # | Window | Type | Show | Say |

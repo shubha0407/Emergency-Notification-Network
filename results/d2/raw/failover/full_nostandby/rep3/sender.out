@@ -1,0 +1,21 @@
+Alert 1/20: accepted by PRIMARY as seq 1 -> 5 subscribers
+Alert 2/20: accepted by PRIMARY as seq 2 -> 5 subscribers
+Alert 3/20: accepted by PRIMARY as seq 3 -> 5 subscribers
+Alert 4/20: accepted by PRIMARY as seq 4 -> 5 subscribers
+Alert 5/20: accepted by PRIMARY as seq 5 -> 5 subscribers
+Alert 6/20: accepted by PRIMARY as seq 6 -> 5 subscribers
+Alert 7/20: accepted by PRIMARY as seq 7 -> 5 subscribers
+Alert 8/20: accepted by PRIMARY as seq 8 -> 5 subscribers
+Alert 9/20: NOT accepted by any server
+Alert 10/20: NOT accepted by any server
+Alert 11/20: NOT accepted by any server
+Alert 12/20: NOT accepted by any server
+Alert 13/20: NOT accepted by any server
+Alert 14/20: NOT accepted by any server
+Alert 15/20: NOT accepted by any server
+Alert 16/20: NOT accepted by any server
+Alert 17/20: NOT accepted by any server
+Alert 18/20: NOT accepted by any server
+Alert 19/20: NOT accepted by any server
+Alert 20/20: NOT accepted by any server
+Done: 20 alerts sent, 8 accepted

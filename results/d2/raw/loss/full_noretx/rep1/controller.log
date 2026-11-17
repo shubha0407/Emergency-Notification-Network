@@ -1,0 +1,53 @@
+loading app controller/deadlinecast_ryu.py
+loading app ryu.controller.ofp_handler
+instantiating app controller/deadlinecast_ryu.py of DeadlineCast
+15:01:58 DeadlineCast controller starting in mode 'full'
+instantiating app ryu.controller.ofp_handler of OFPHandler
+15:02:01 SWITCH_READY: s1 mode=full security_rules=11 routes=7
+15:02:01 SWITCH_READY: s2 mode=full security_rules=0 routes=7
+15:02:01 SWITCH_READY: s3 mode=full security_rules=0 routes=7
+15:02:02 SWITCH_READY: s4 mode=full security_rules=23 routes=7
+15:02:02 ALL_SWITCHES_CONNECTED: 4 switches
+15:02:02 control channel on 10.200.0.254:6000
+15:02:04 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:04 DISARM: server 10.0.0.1: alert rules removed
+15:02:05 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:05 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:06 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:06 DISARM: server 10.0.0.1: alert rules removed
+15:02:06 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:07 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:07 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:07 DISARM: server 10.0.0.1: alert rules removed
+15:02:08 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:08 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:08 DISARM: server 10.0.0.1: alert rules removed
+15:02:09 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:09 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:09 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:09 DISARM: server 10.0.0.7: alert rules removed
+15:02:10 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:10 DISARM: server 10.0.0.7: alert rules removed
+15:02:10 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:10 DISARM: server 10.0.0.7: alert rules removed
+15:02:11 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:11 DISARM: server 10.0.0.7: alert rules removed
+15:02:11 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:11 DISARM: server 10.0.0.7: alert rules removed
+15:02:12 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:12 DISARM: server 10.0.0.7: alert rules removed
+15:02:12 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:12 DISARM: server 10.0.0.7: alert rules removed
+15:02:13 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:13 DISARM: server 10.0.0.7: alert rules removed
+15:02:13 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:13 DISARM: server 10.0.0.7: alert rules removed
+15:02:14 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:02:14 DISARM: server 10.0.0.7: alert rules removed
+15:02:18 LINK_DOWN: s1-s3
+15:02:18 LINK_DOWN: s1-s2
+15:02:18 LINK_DOWN: s2-s4
+15:02:19 LINK_DOWN: s3-s4
+15:02:19 REROUTED: 11 routes reinstalled in 332.0 ms, s1 to s4 now via none
+15:02:19 REROUTED: 11 routes reinstalled in 332.0 ms, s1 to s4 now via none
+15:02:19 REROUTED: 11 routes reinstalled in 332.0 ms, s1 to s4 now via none

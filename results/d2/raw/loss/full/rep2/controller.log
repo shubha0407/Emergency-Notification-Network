@@ -1,0 +1,53 @@
+loading app controller/deadlinecast_ryu.py
+loading app ryu.controller.ofp_handler
+instantiating app controller/deadlinecast_ryu.py of DeadlineCast
+15:10:17 DeadlineCast controller starting in mode 'full'
+instantiating app ryu.controller.ofp_handler of OFPHandler
+15:10:21 SWITCH_READY: s1 mode=full security_rules=11 routes=7
+15:10:21 SWITCH_READY: s2 mode=full security_rules=0 routes=7
+15:10:21 SWITCH_READY: s3 mode=full security_rules=0 routes=7
+15:10:21 SWITCH_READY: s4 mode=full security_rules=23 routes=7
+15:10:21 ALL_SWITCHES_CONNECTED: 4 switches
+15:10:21 control channel on 10.200.0.254:6000
+15:10:24 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:24 DISARM: server 10.0.0.1: alert rules removed
+15:10:24 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:25 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:25 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:26 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:26 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:27 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:27 DISARM: server 10.0.0.1: alert rules removed
+15:10:27 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:28 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:28 DISARM: server 10.0.0.1: alert rules removed
+15:10:29 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:29 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:29 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:29 DISARM: server 10.0.0.7: alert rules removed
+15:10:29 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:29 DISARM: server 10.0.0.7: alert rules removed
+15:10:30 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:30 DISARM: server 10.0.0.7: alert rules removed
+15:10:30 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:30 DISARM: server 10.0.0.7: alert rules removed
+15:10:31 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:31 DISARM: server 10.0.0.7: alert rules removed
+15:10:31 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:31 DISARM: server 10.0.0.7: alert rules removed
+15:10:32 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:32 DISARM: server 10.0.0.7: alert rules removed
+15:10:32 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:32 DISARM: server 10.0.0.7: alert rules removed
+15:10:33 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:33 DISARM: server 10.0.0.7: alert rules removed
+15:10:33 ARM: server 10.0.0.7 window 30s alert path s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+15:10:33 DISARM: server 10.0.0.7: alert rules removed
+15:10:38 LINK_DOWN: s1-s2
+15:10:38 LINK_DOWN: s2-s4
+15:10:38 LINK_DOWN: s3-s4
+15:10:38 LINK_DOWN: s1-s3
+15:10:38 REROUTED: 28 routes reinstalled in 285.9 ms, s1 to s4 now via none
+15:10:39 REROUTED: 10 routes reinstalled in 330.6 ms, s1 to s4 now via none
+15:10:39 REROUTED: 10 routes reinstalled in 337.7 ms, s1 to s4 now via none
+15:10:39 REROUTED: 7 routes reinstalled in 326.8 ms, s1 to s4 now via none

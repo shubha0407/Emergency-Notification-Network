@@ -1,0 +1,32 @@
+loading app controller/deadlinecast_ryu.py
+loading app ryu.controller.ofp_handler
+instantiating app controller/deadlinecast_ryu.py of DeadlineCast
+16:32:31 DeadlineCast controller starting in mode 'full'
+instantiating app ryu.controller.ofp_handler of OFPHandler
+16:32:34 SWITCH_READY: s1 mode=full security_rules=11 routes=7
+16:32:34 SWITCH_READY: s2 mode=full security_rules=0 routes=7
+16:32:34 SWITCH_READY: s3 mode=full security_rules=0 routes=7
+16:32:35 SWITCH_READY: s4 mode=full security_rules=23 routes=7
+16:32:35 ALL_SWITCHES_CONNECTED: 4 switches
+16:32:35 control channel on 10.200.0.254:6000
+16:32:37 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+16:32:37 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+16:32:38 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+16:32:38 DISARM: server 10.0.0.1: alert rules removed
+16:32:38 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.1, s2->s4 0.1, s1->s3 0.0, s3->s4 0.0 Mbps]
+16:32:38 DISARM: server 10.0.0.1: alert rules removed
+16:32:39 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.1, s2->s4 0.1, s1->s3 0.0, s3->s4 0.0 Mbps]
+16:32:39 DISARM: server 10.0.0.1: alert rules removed
+16:32:39 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+16:32:40 DISARM: server 10.0.0.1: alert rules removed
+16:32:40 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+16:32:40 DISARM: server 10.0.0.1: alert rules removed
+16:32:40 ARM: server 10.0.0.1 window 30s alert path s1-s2-s4 [s1->s2 0.0, s2->s4 0.0, s1->s3 0.0, s3->s4 0.0 Mbps]
+16:32:40 DISARM: server 10.0.0.1: alert rules removed
+16:33:09 LINK_DOWN: s2-s4
+16:33:09 LINK_DOWN: s1-s2
+16:33:09 LINK_DOWN: s1-s3
+16:33:10 LINK_DOWN: s3-s4
+16:33:10 REROUTED: 12 routes reinstalled in 441.4 ms, s1 to s4 now via none
+16:33:10 REROUTED: 15 routes reinstalled in 463.9 ms, s1 to s4 now via none
+16:33:10 REROUTED: 11 routes reinstalled in 400.2 ms, s1 to s4 now via none

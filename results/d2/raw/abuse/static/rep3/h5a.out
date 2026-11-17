@@ -1,0 +1,185 @@
+PRIMARY server 10.0.0.1 is UP
+STANDBY server 10.0.0.7 is UP
+Subscriber on port 5000 (heartbeat ports 8000/8001)
+
+====== EMERGENCY ALERT ======
+Seq      : 1   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 1/20
+Latency  : 101.21 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 2   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 2/20
+Latency  : 84.14 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 3   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 3/20
+Latency  : 103.08 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 4   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 4/20
+Latency  : 109.01 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 5   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 5/20
+Latency  : 201.56 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 6   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 6/20
+Latency  : 115.92 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 7   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 7/20
+Latency  : 136.78 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 8   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 8/20
+Latency  : 130.22 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 9   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 9/20
+Latency  : 125.84 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 10   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 10/20
+Latency  : 82.85 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 11   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 11/20
+Latency  : 60.25 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 12   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 12/20
+Latency  : 69.44 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 13   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 13/20
+Latency  : 56.93 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 14   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 14/20
+Latency  : 73.98 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 15   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 15/20
+Latency  : 88.63 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 16   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 16/20
+Latency  : 151.92 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 17   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 17/20
+Latency  : 103.42 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 18   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 18/20
+Latency  : 61.16 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 19   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 19/20
+Latency  : 66.94 ms | deadline 1000 ms: met
+=============================
+
+====== EMERGENCY ALERT ======
+Seq      : 20   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 20/20
+Latency  : 58.76 ms | deadline 1000 ms: met
+=============================
+
+Unregistered, bye.

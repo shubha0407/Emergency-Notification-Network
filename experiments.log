@@ -1,0 +1,221 @@
+54 runs, about 25 minutes. Controller: /home/shubha/ryu-env/bin/ryu-manager
+
+=== normal / plain / rep 1: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 7.5 ms  retx 0  fake reached 0  quarantines 0
+  [1/54] saved
+
+=== normal / static / rep 1: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 13.5 ms  retx 0  fake reached 0  quarantines 0
+  [2/54] saved
+
+=== normal / full / rep 1: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 13.4 ms  retx 0  fake reached 0  quarantines 0
+  [3/54] saved
+
+=== congestion / plain / rep 1: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 157.3 ms  retx 0  fake reached 0  quarantines 0
+  [4/54] saved
+
+=== congestion / static / rep 1: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 8.4 ms  retx 0  fake reached 0  quarantines 0
+  [5/54] saved
+
+=== congestion / full / rep 1: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 10.7 ms  retx 0  fake reached 0  quarantines 0
+  [6/54] saved
+
+=== abuse / plain / rep 1: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 133.8 ms  retx 0  fake reached 0  quarantines 0
+  [7/54] saved
+
+=== abuse / static / rep 1: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 64.4 ms  retx 0  fake reached 0  quarantines 0
+  [8/54] saved
+
+=== abuse / full / rep 1: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 14.1 ms  retx 0  fake reached 0  quarantines 1
+  [9/54] saved
+
+=== linkfail / plain / rep 1: link s1-s2 goes down 4 s into the run
+  delivered 40.0%  deadline-miss 60.0%  p95 7.1 ms  retx 12  fake reached 0  quarantines 0
+  [10/54] saved
+
+=== linkfail / static / rep 1: link s1-s2 goes down 4 s into the run
+  delivered 40.0%  deadline-miss 60.0%  p95 5.5 ms  retx 12  fake reached 0  quarantines 0
+  [11/54] saved
+
+=== linkfail / full / rep 1: link s1-s2 goes down 4 s into the run
+  delivered 100.0%  deadline-miss 0.0%  p95 13.0 ms  retx 0  fake reached 0  quarantines 0
+  [12/54] saved
+
+=== loss / full_noretx / rep 1: 10% random packet loss on the server's link
+  delivered 93.0%  deadline-miss 7.0%  p95 10.7 ms  retx 0  fake reached 0  quarantines 0
+  [13/54] saved
+
+=== loss / full / rep 1: 10% random packet loss on the server's link
+  delivered 100.0%  deadline-miss 0.0%  p95 9.2 ms  retx 2  fake reached 0  quarantines 0
+  [14/54] saved
+
+=== failover / full_nostandby / rep 1: primary server crashes 4 s into the run
+  delivered 35.0%  deadline-miss 65.0%  p95 518.9 ms  retx 2  fake reached 0  quarantines 0
+  [15/54] saved
+
+=== failover / full / rep 1: primary server crashes 4 s into the run
+  delivered 100.0%  deadline-miss 0.0%  p95 13.3 ms  retx 0  fake reached 0  quarantines 0
+  [16/54] saved
+
+=== fakealert / static / rep 1: h6 sends fake unsigned alerts to subscribers, half with a forged server IP
+  delivered 100.0%  deadline-miss 0.0%  p95 6.7 ms  retx 0  fake reached 1255  quarantines 0
+  [17/54] saved
+
+=== fakealert / full / rep 1: h6 sends fake unsigned alerts to subscribers, half with a forged server IP
+  delivered 100.0%  deadline-miss 0.0%  p95 11.1 ms  retx 0  fake reached 0  quarantines 1
+  [18/54] saved
+
+=== normal / plain / rep 2: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 13.0 ms  retx 0  fake reached 0  quarantines 0
+  [19/54] saved
+
+=== normal / static / rep 2: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 8.3 ms  retx 0  fake reached 0  quarantines 0
+  [20/54] saved
+
+=== normal / full / rep 2: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 15.6 ms  retx 0  fake reached 0  quarantines 0
+  [21/54] saved
+
+=== congestion / plain / rep 2: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 146.2 ms  retx 0  fake reached 0  quarantines 0
+  [22/54] saved
+
+=== congestion / static / rep 2: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 14.2 ms  retx 0  fake reached 0  quarantines 0
+  [23/54] saved
+
+=== congestion / full / rep 2: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 13.6 ms  retx 0  fake reached 0  quarantines 0
+  [24/54] saved
+
+=== abuse / plain / rep 2: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 137.9 ms  retx 0  fake reached 0  quarantines 0
+  [25/54] saved
+
+=== abuse / static / rep 2: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 119.9 ms  retx 0  fake reached 0  quarantines 0
+  [26/54] saved
+
+=== abuse / full / rep 2: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 17.5 ms  retx 0  fake reached 0  quarantines 1
+  [27/54] saved
+
+=== linkfail / plain / rep 2: link s1-s2 goes down 4 s into the run
+  delivered 40.0%  deadline-miss 60.0%  p95 10.3 ms  retx 12  fake reached 0  quarantines 0
+  [28/54] saved
+
+=== linkfail / static / rep 2: link s1-s2 goes down 4 s into the run
+  delivered 40.0%  deadline-miss 60.0%  p95 8.6 ms  retx 12  fake reached 0  quarantines 0
+  [29/54] saved
+
+=== linkfail / full / rep 2: link s1-s2 goes down 4 s into the run
+  delivered 100.0%  deadline-miss 0.0%  p95 22.1 ms  retx 1  fake reached 0  quarantines 0
+  [30/54] saved
+
+=== loss / full_noretx / rep 2: 10% random packet loss on the server's link
+  delivered 100.0%  deadline-miss 0.0%  p95 11.3 ms  retx 0  fake reached 0  quarantines 0
+  [31/54] saved
+
+=== loss / full / rep 2: 10% random packet loss on the server's link
+  delivered 100.0%  deadline-miss 0.0%  p95 521.5 ms  retx 6  fake reached 0  quarantines 0
+  [32/54] saved
+
+=== failover / full_nostandby / rep 2: primary server crashes 4 s into the run
+  ! sender timed out
+  delivered 35.0%  deadline-miss 65.0%  p95 533.3 ms  retx 2  fake reached 0  quarantines 0
+  [33/54] saved
+
+=== failover / full / rep 2: primary server crashes 4 s into the run
+  delivered 100.0%  deadline-miss 0.0%  p95 15.6 ms  retx 0  fake reached 0  quarantines 0
+  [34/54] saved
+
+=== fakealert / static / rep 2: h6 sends fake unsigned alerts to subscribers, half with a forged server IP
+  delivered 100.0%  deadline-miss 0.0%  p95 12.3 ms  retx 0  fake reached 1274  quarantines 0
+  [35/54] saved
+
+=== fakealert / full / rep 2: h6 sends fake unsigned alerts to subscribers, half with a forged server IP
+  delivered 100.0%  deadline-miss 0.0%  p95 13.8 ms  retx 0  fake reached 0  quarantines 1
+  [36/54] saved
+
+=== normal / plain / rep 3: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 8.5 ms  retx 0  fake reached 0  quarantines 0
+  [37/54] saved
+
+=== normal / static / rep 3: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 9.0 ms  retx 0  fake reached 0  quarantines 0
+  [38/54] saved
+
+=== normal / full / rep 3: no background traffic
+  delivered 100.0%  deadline-miss 0.0%  p95 12.7 ms  retx 0  fake reached 0  quarantines 0
+  [39/54] saved
+
+=== congestion / plain / rep 3: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 158.1 ms  retx 0  fake reached 0  quarantines 0
+  [40/54] saved
+
+=== congestion / static / rep 3: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 8.5 ms  retx 0  fake reached 0  quarantines 0
+  [41/54] saved
+
+=== congestion / full / rep 3: h6 floods h3 with 12 Mbps of normal UDP over 10 Mbps links
+  delivered 100.0%  deadline-miss 0.0%  p95 9.8 ms  retx 0  fake reached 0  quarantines 0
+  [42/54] saved
+
+=== abuse / plain / rep 3: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 173.5 ms  retx 0  fake reached 0  quarantines 0
+  [43/54] saved
+
+=== abuse / static / rep 3: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 151.9 ms  retx 0  fake reached 0  quarantines 0
+  [44/54] saved
+
+=== abuse / full / rep 3: h6 floods h3 with 12 Mbps marked DSCP 46 (fake urgent)
+  delivered 100.0%  deadline-miss 0.0%  p95 32.8 ms  retx 0  fake reached 0  quarantines 1
+  [45/54] saved
+
+=== linkfail / plain / rep 3: link s1-s2 goes down 4 s into the run
+  delivered 40.0%  deadline-miss 60.0%  p95 17.6 ms  retx 12  fake reached 0  quarantines 0
+  [46/54] saved
+
+=== linkfail / static / rep 3: link s1-s2 goes down 4 s into the run
+  delivered 40.0%  deadline-miss 60.0%  p95 8.6 ms  retx 12  fake reached 0  quarantines 0
+  [47/54] saved
+
+=== linkfail / full / rep 3: link s1-s2 goes down 4 s into the run
+  delivered 100.0%  deadline-miss 0.0%  p95 15.9 ms  retx 1  fake reached 0  quarantines 0
+  [48/54] saved
+
+=== loss / full_noretx / rep 3: 10% random packet loss on the server's link
+  delivered 99.0%  deadline-miss 1.0%  p95 12.3 ms  retx 0  fake reached 0  quarantines 0
+  [49/54] saved
+
+=== loss / full / rep 3: 10% random packet loss on the server's link
+  delivered 100.0%  deadline-miss 0.0%  p95 12.2 ms  retx 3  fake reached 0  quarantines 0
+  [50/54] saved
+
+=== failover / full_nostandby / rep 3: primary server crashes 4 s into the run
+  delivered 35.0%  deadline-miss 65.0%  p95 512.0 ms  retx 2  fake reached 0  quarantines 0
+  [51/54] saved
+
+=== failover / full / rep 3: primary server crashes 4 s into the run
+  delivered 100.0%  deadline-miss 0.0%  p95 14.5 ms  retx 0  fake reached 0  quarantines 0
+  [52/54] saved
+
+=== fakealert / static / rep 3: h6 sends fake unsigned alerts to subscribers, half with a forged server IP
+  delivered 100.0%  deadline-miss 0.0%  p95 5.5 ms  retx 0  fake reached 1200  quarantines 0
+  [53/54] saved
+
+=== fakealert / full / rep 3: h6 sends fake unsigned alerts to subscribers, half with a forged server IP
+  delivered 100.0%  deadline-miss 0.0%  p95 11.7 ms  retx 0  fake reached 0  quarantines 1
+  [54/54] saved
+
+Done. Summary: /home/shubha/emergency-sdn/results/d2/summary.csv
+Next: python3 experiments/plot.py && python3 experiments/report.py

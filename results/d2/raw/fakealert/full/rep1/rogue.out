@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/shubha/emergency-sdn/tools/rogue_alerts.py", line 38, in <module>
+    plain.sendto(data, (dst, port))
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

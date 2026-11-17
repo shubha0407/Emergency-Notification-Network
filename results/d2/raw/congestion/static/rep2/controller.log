@@ -1,0 +1,23 @@
+loading app controller/baseline_static.py
+loading app ryu.controller.ofp_handler
+instantiating app controller/baseline_static.py of BaselineStatic
+15:06:22 DeadlineCast controller starting in mode 'static'
+instantiating app ryu.controller.ofp_handler of OFPHandler
+15:06:25 SWITCH_READY: s1 mode=static security_rules=0 routes=7
+15:06:26 SWITCH_READY: s2 mode=static security_rules=0 routes=7
+15:06:26 SWITCH_READY: s3 mode=static security_rules=0 routes=7
+15:06:26 SWITCH_READY: s4 mode=static security_rules=0 routes=7
+15:06:26 ALL_SWITCHES_CONNECTED: 4 switches
+15:06:26 control channel on 10.200.0.254:6000
+15:06:30 LOAD s1->s2 4.1, s2->s4 4.1, s1->s3 0.0, s3->s4 0.0 Mbps
+15:06:35 LOAD s1->s2 5.6, s2->s4 5.5, s1->s3 0.0, s3->s4 0.0 Mbps
+15:06:40 LOAD s1->s2 4.0, s2->s4 6.9, s1->s3 0.0, s3->s4 0.0 Mbps
+15:06:45 LOAD s1->s2 8.9, s2->s4 3.7, s1->s3 0.0, s3->s4 0.0 Mbps
+15:06:46 LINK_DOWN: s1-s2
+15:06:46 NO_REACTION: static mode keeps its static routes
+15:06:46 LINK_DOWN: s2-s4
+15:06:46 NO_REACTION: static mode keeps its static routes
+15:06:46 LINK_DOWN: s3-s4
+15:06:46 NO_REACTION: static mode keeps its static routes
+15:06:46 LINK_DOWN: s1-s3
+15:06:46 NO_REACTION: static mode keeps its static routes

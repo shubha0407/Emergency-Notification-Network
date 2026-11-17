@@ -1,0 +1,19 @@
+loading app controller/baseline_plain.py
+loading app ryu.controller.ofp_handler
+instantiating app controller/baseline_plain.py of BaselinePlain
+16:30:30 DeadlineCast controller starting in mode 'plain'
+instantiating app ryu.controller.ofp_handler of OFPHandler
+16:30:33 SWITCH_READY: s1 mode=plain security_rules=0 routes=7
+16:30:33 SWITCH_READY: s2 mode=plain security_rules=0 routes=7
+16:30:33 SWITCH_READY: s3 mode=plain security_rules=0 routes=7
+16:30:34 SWITCH_READY: s4 mode=plain security_rules=0 routes=7
+16:30:34 ALL_SWITCHES_CONNECTED: 4 switches
+16:30:34 control channel on 10.200.0.254:6000
+16:30:40 LINK_DOWN: s1-s2
+16:30:40 NO_REACTION: plain mode keeps its static routes
+16:30:51 LINK_DOWN: s2-s4
+16:30:51 NO_REACTION: plain mode keeps its static routes
+16:30:51 LINK_DOWN: s3-s4
+16:30:51 NO_REACTION: plain mode keeps its static routes
+16:30:51 LINK_DOWN: s1-s3
+16:30:51 NO_REACTION: plain mode keeps its static routes

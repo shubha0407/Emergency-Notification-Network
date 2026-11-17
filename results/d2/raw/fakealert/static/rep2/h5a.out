@@ -1,0 +1,439 @@
+PRIMARY server 10.0.0.1 is UP
+STANDBY server 10.0.0.7 is UP
+Subscriber on port 5000 (heartbeat ports 8000/8001)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 1   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 1/20
+Latency  : 2.21 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 2   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 2/20
+Latency  : 2.07 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 3   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 3/20
+Latency  : 2.22 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 4   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 4/20
+Latency  : 0.96 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 5   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 5/20
+Latency  : 1.11 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 6   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 6/20
+Latency  : 0.93 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 7   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 7/20
+Latency  : 8.39 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 8   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 8/20
+Latency  : 0.85 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 9   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 9/20
+Latency  : 0.87 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 10   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 10/20
+Latency  : 1.34 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 11   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 11/20
+Latency  : 5.46 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 12   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 12/20
+Latency  : 1.24 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 13   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 13/20
+Latency  : 1.22 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 14   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 14/20
+Latency  : 8.72 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 15   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 15/20
+Latency  : 1.10 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 16   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 16/20
+Latency  : 5.31 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 17   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 17/20
+Latency  : 5.76 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 18   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 18/20
+Latency  : 17.30 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 19   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 19/20
+Latency  : 1.40 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+====== EMERGENCY ALERT ======
+Seq      : 20   (from PRIMARY)
+Type     : TEST
+Priority : CRITICAL
+Location : Test zone
+Message  : Automated test alert 20/20
+Latency  : 1.22 ms | deadline 1000 ms: met
+=============================
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+Alert with missing/invalid signature REJECTED (not ACKed)
+
+Unregistered, bye.

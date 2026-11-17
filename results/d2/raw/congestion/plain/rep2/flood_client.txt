@@ -1,0 +1,25 @@
+iperf3: interrupt - the client has terminated by signal Interrupt(2)
+Connecting to host 10.0.0.3, port 5201
+[  7] local 10.0.0.6 port 50460 connected to 10.0.0.3 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  7]   0.00-1.00   sec   974 KBytes  7.95 Mbits/sec  832  
+[  7]   1.00-2.00   sec   620 KBytes  5.09 Mbits/sec  529  
+[  7]   2.00-3.00   sec   616 KBytes  5.05 Mbits/sec  526  
+[  7]   3.00-4.00   sec   793 KBytes  6.49 Mbits/sec  677  
+[  7]   4.00-5.00   sec   840 KBytes  6.86 Mbits/sec  717  
+[  7]   5.00-6.00   sec   670 KBytes  5.50 Mbits/sec  572  
+[  7]   6.00-7.00   sec   568 KBytes  4.66 Mbits/sec  485  
+[  7]   7.00-8.00   sec   737 KBytes  6.03 Mbits/sec  629  
+[  7]   8.00-9.01   sec   567 KBytes  4.62 Mbits/sec  484  
+[  7]   9.01-10.00  sec   940 KBytes  7.75 Mbits/sec  802  
+[  7]  10.00-11.00  sec  1.11 MBytes  9.34 Mbits/sec  974  
+[  7]  11.00-12.00  sec   743 KBytes  6.08 Mbits/sec  634  
+[  7]  12.00-13.00  sec   844 KBytes  6.93 Mbits/sec  720  
+[  7]  13.00-14.01  sec   451 KBytes  3.67 Mbits/sec  385  
+[  7]  14.01-15.00  sec   558 KBytes  4.60 Mbits/sec  476  
+[  7]  15.00-16.00  sec   788 KBytes  6.46 Mbits/sec  672  
+[  7]  16.00-16.11  sec   112 KBytes  8.23 Mbits/sec  96  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  7]   0.00-16.11  sec  11.7 MBytes  6.08 Mbits/sec  0.000 ms  0/10210 (0%)  sender
+[  7]   0.00-16.11  sec  0.00 Bytes  0.00 bits/sec  0.000 ms  0/0 (0%)  receiver
